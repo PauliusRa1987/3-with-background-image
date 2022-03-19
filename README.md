@@ -7,7 +7,7 @@ _Paulius Ra practis-project_
 
 This project is for educational porpuses only. 
 
-Site published at: https://pauliusra1987.github.io/4-styling-and-styling/
+Site published at: https://pauliusra1987.github.io/3-with-background-image/
 
 Design: https://dribbble.com/shots/6857288/attachments/6857288-Yoga-studio-web-ui-concept?mode=media
 
